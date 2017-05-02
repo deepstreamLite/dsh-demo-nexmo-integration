@@ -11,6 +11,6 @@
   "dependencies": {
     "deepstream.io-client-js": "^2.1.1",
     "needle": "^1.4.5",
-    "nexmo": "^1.2.0"
+    "nexmo": "^2.0.2"
   }
 }
